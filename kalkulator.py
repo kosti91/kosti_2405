@@ -6,5 +6,5 @@ print("Podaj druga liczbe")
 b = int(input())
 
 
-dodawanie()
+print(dodawanie(a,b))
 
