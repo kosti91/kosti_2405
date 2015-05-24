@@ -1,12 +1,12 @@
-def dodawanie():
-	print(a+b)
+def dodawanie(a,b):
+	return a+b
+def get_info():
+	print("witaj w programie kalkulator")
+get_info()
 print('Podaj pierwsza liczbe')
 a = int(input())
 print("Podaj druga liczbe")
 b = int(input())
 
-def get_info():
-	print("witaj w programie kalkulator")
+print(dodawanie(a,b))
 
-get_info()
-dodawanie()
