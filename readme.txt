@@ -1,1 +1,1 @@
-Przykladowy projekt kalkulatora w pythonie
+Przykladowy projekt kalkulatora w pythonie :) 
